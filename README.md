@@ -1,4 +1,4 @@
-# Python Prep
+# Python Practice
 
 I am following the [Udacity Data Structures and Algorithms Course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513), this repo has all the practice problems that has been taught in the said course.
 
