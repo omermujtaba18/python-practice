@@ -36,3 +36,4 @@
 
 ### TODO
 - Practice recursion more!
+- Practice Hash tables (Custom Hash tables)
