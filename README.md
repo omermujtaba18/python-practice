@@ -14,6 +14,12 @@ I am following the [Udacity Data Structures and Algorithms Course](https://www.u
 - Merge Sort O(n log n)
 - Quick Sort Worst(n^2) , Best(n log n)
 
+#### Heap
+- O (n) Search
+- Insert/Delete Worst O(log n),
+
+#### BST
+- O (n)
 
 ### Quick Algorithm
 - Binary Search (Go to mid, divide in upper or lower half if search value is less or more)
@@ -26,6 +32,14 @@ I am following the [Udacity Data Structures and Algorithms Course](https://www.u
 
 - Fibonacci: In practice if we were to use recursion to solve this problem we should use a hash table to store and fetch previously calculated results. This will increase the space needed but will drastically improve the runtime efficiency.
 - Fibonacci: The number of recursive calls grows exponentially with n.
+- Tree Traversal: Pre-Order, In-Order, Post-Order
+- Pre-Order: Check off self and go left to check off, then check off right
+- In-Order: Check off self only after all left child are check off
+- Post-Order: Checkoff the all leaf node (left-right), then check off parent 
+- Heaps are stored in arrays
+- Max Heap: Parent greater than child
+- Min Heap: Parent less than child
+- Heapify : Rearrange heap on insertion or deletion
 
 ### Useful Resources
 
@@ -38,3 +52,4 @@ I am following the [Udacity Data Structures and Algorithms Course](https://www.u
 ### TODO
 - Practice recursion more!
 - Practice Hash tables (Custom Hash tables)
+- Self-Balancing-Tree (Red-Black-Tree) rules
