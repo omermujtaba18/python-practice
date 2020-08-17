@@ -4,7 +4,16 @@ This repo has two parts.
 1. Algorithm and Data Strucutres
 2. [Codewars](https://www.codewars.com/) Solutions
 
-## Algorithm and Data Strucutres 
+## 1. Codewars Solutions
+
+The solutions are divided among three focus areas of Codewars
+1. Fundamentals
+2. Rank up
+3. Practice and Repeat
+
+**Note**: The questions are numbered in terms of difficulty with 1 being the least difficult.
+
+## 2. Algorithm and Data Strucutres 
 
 I am following the [Udacity Data Structures and Algorithms Course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513), this repo has all the practice problems that has been taught in the said course.
 
@@ -59,13 +68,3 @@ I am following the [Udacity Data Structures and Algorithms Course](https://www.u
 - Practice recursion more!
 - Practice Hash tables (Custom Hash tables)
 - Self-Balancing-Tree (Red-Black-Tree) rules
-
-
-## Codewars Solutions
-
-The solutions are divided among three focus areas of Codewars
-1. Fundamentals
-2. Rank up
-3. Practice and Repeat
-
-**Note**: The questions are numbered in terms of difficulty with 1 being the least difficult
