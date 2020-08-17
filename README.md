@@ -1,8 +1,8 @@
 # Python Practice
 
 This repo has two parts.
-1. Algorithm and Data Strucutres
-2. [Codewars](https://www.codewars.com/) Solutions
+1. [Codewars](https://www.codewars.com/) Solutions
+2. Algorithm and Data Strucutres
 
 ## 1. Codewars Solutions
 
